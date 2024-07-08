@@ -1,1 +1,1 @@
-# test
+# github issues and PRs templates test
